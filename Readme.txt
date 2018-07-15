@@ -1,1 +1,1 @@
-Using Ubidot to crete a simple parking counter system
+Using Ubidot to create a simple parking counter system
